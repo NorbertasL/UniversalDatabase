@@ -5,6 +5,9 @@ A database creating tool with customised UI for all database needs.Can create no
 
 # Dependencies
 - [SQLite](https://www.sqlite.org/index.html)
+- [TornadoFX](https://tornadofx.io/)
+  - JavaFX wrapper for Kotlin. Easy UI design.
+ 
 
 
 # Feature Order(Implementation)
